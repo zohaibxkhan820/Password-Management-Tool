@@ -1,6 +1,6 @@
 # Password Management Tool
 > * To maintain passwords with Strong Encryption and High Security.
-> * Using Technologies like:*
+ * Using Technologies like:*
  * Hibernate
  * Junit
  * Jsp
