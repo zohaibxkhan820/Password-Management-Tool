@@ -1,5 +1,7 @@
 # Password Management Tool
 > * To maintain passwords with Strong Encryption and High Security.
+
+
  *Using Technologies like:*
  * Hibernate
  * Junit
@@ -8,7 +10,9 @@
  * Mokito
  * MySQL
  * Spring Boot
- * Spring Security 
+ * Spring Security
+
+
  *Setup Instructions*
 > * Clone the repository to your local machine.
 > * Install Maven and Java if not already installed.
